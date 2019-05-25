@@ -3,4 +3,4 @@ def using_times
 	  puts "Wingdarium Leviosa"
   end
 
-
+end
